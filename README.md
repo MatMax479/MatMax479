@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**MatMax479/MatMax479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portfolio informatique
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Étudiant en première année à l'ESGI Rennes, je développe mes compétences à travers des projets informatiques concrets.
+
+Je m'intéresse au développement, aux systèmes, aux réseaux et à la cybersécurité. Je recherche une alternance ou un stage en informatique, particulièrement dans les systèmes, réseaux et le support IT.
+
+## Compétences techniques
+
+- **Développement :** Python, PHP, HTML, CSS, JavaScript, SQL
+- **Systèmes :** Windows, Linux, VirtualBox
+- **Réseaux :** TCP/IP, Wireshark, Cisco Packet Tracer
+- **Support IT :** GLPI, diagnostic et suivi des incidents
+- **Outils :** Git, GitHub, GitLab
+
+## Mes projets
+
+### Intelligence artificielle — IA
+
+Projet d'expérimentation en intelligence artificielle.
+
+https://github.com/MatMax479/IA
+
+### Mairie-project — Assistance numérique
+
+Développement d'une plateforme web d'aide informatique et d'accompagnement numérique.
+
+**Technologies :** HTML, CSS, JavaScript.
+
+https://github.com/MatMax479/Mairie-project
+
+### PHP Shifumi — Jeu interactif
+
+Développement d'un jeu Pierre-Feuille-Ciseaux avec une logique de jeu en PHP.
+
+**Technologies :** PHP, HTML.
+
+https://github.com/MatMax479/php-shifumi-main
+
+## Objectif professionnel
+
+Contribuer aux activités d'une équipe informatique en mobilisant mes compétences techniques, mon sens de l'analyse et ma capacité à résoudre des problèmes.
+
+**Localisation :** Rennes et sa métropole.
+
+[Découvrir tous mes dépôts](https://github.com/MatMax479?tab=repositories)
+  
