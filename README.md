@@ -17,13 +17,13 @@ Je m'intéresse au développement, aux systèmes, aux réseaux et à la cybersé
 
 ## Mes projets
 
-### Intelligence artificielle — IA
+### Intelligence artificielle  IA
 
 Projet d'expérimentation en intelligence artificielle.
 
 https://github.com/MatMax479/IA
 
-### Mairie-project — Assistance numérique
+### Mairie-project  Assistance numérique
 
 Développement d'une plateforme web d'aide informatique et d'accompagnement numérique.
 
@@ -31,7 +31,7 @@ Développement d'une plateforme web d'aide informatique et d'accompagnement num�
 
 https://github.com/MatMax479/Mairie-project
 
-### PHP Shifumi — Jeu interactif
+### PHP Shifumi  Jeu interactif
 
 Développement d'un jeu Pierre-Feuille-Ciseaux avec une logique de jeu en PHP.
 
@@ -39,11 +39,3 @@ Développement d'un jeu Pierre-Feuille-Ciseaux avec une logique de jeu en PHP.
 
 https://github.com/MatMax479/php-shifumi-main
 
-## Objectif professionnel
-
-Contribuer aux activités d'une équipe informatique en mobilisant mes compétences techniques, mon sens de l'analyse et ma capacité à résoudre des problèmes.
-
-**Localisation :** Rennes et sa métropole.
-
-[Découvrir tous mes dépôts](https://github.com/MatMax479?tab=repositories)
-  
